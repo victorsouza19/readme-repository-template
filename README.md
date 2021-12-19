@@ -22,7 +22,7 @@
 
 ## ✨ Latest Updates:
 
-- [x] Something that is finished.
+- [x] Something that has been completed.
 - [ ] Something in progress.
 - [ ] Something in progress.
 
